@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\KORUMASIZ\İREM\irem_keser_300_mysql\irem_keser_300_mysql\bin\Debug\irem_keser_300_mysql.exe.config
+C:\Users\User\Desktop\KORUMASIZ\İREM\irem_keser_300_mysql\irem_keser_300_mysql\bin\Debug\irem_keser_300_mysql.exe
+C:\Users\User\Desktop\KORUMASIZ\İREM\irem_keser_300_mysql\irem_keser_300_mysql\bin\Debug\irem_keser_300_mysql.pdb
+C:\Users\User\Desktop\KORUMASIZ\İREM\irem_keser_300_mysql\irem_keser_300_mysql\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\KORUMASIZ\İREM\irem_keser_300_mysql\irem_keser_300_mysql\obj\Debug\irem_keser_300_mysql.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM\irem_keser_300_mysql\irem_keser_300_mysql\obj\Debug\irem_keser_300_mysql.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM\irem_keser_300_mysql\irem_keser_300_mysql\obj\Debug\irem_keser_300_mysql.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\İREM\irem_keser_300_mysql\irem_keser_300_mysql\obj\Debug\irem_keser_300_mysql.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\İREM\irem_keser_300_mysql\irem_keser_300_mysql\obj\Debug\irem_keser_300_mysql.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM\irem_keser_300_mysql\irem_keser_300_mysql\obj\Debug\irem_keser_300_mysql.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM\irem_keser_300_mysql\irem_keser_300_mysql\obj\Debug\irem_keser_300_mysql.csproj.CopyComplete
+C:\Users\User\Desktop\KORUMASIZ\İREM\irem_keser_300_mysql\irem_keser_300_mysql\obj\Debug\irem_keser_300_mysql.exe
+C:\Users\User\Desktop\KORUMASIZ\İREM\irem_keser_300_mysql\irem_keser_300_mysql\obj\Debug\irem_keser_300_mysql.pdb
+C:\Users\User\Desktop\KORUMASIZ\İREM\irem_keser_300_mysql\irem_keser_300_mysql\obj\Debug\irem_keser_300_mysql.FormElestiri.resources
+C:\Users\User\Desktop\KORUMASIZ\İREM\irem_keser_300_mysql\irem_keser_300_mysql\obj\Debug\irem_keser_300_mysql.FormFilmElestiri.resources
